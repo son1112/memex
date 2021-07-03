@@ -1,0 +1,36 @@
+#+title: Trust yourself first
+#+date: <2021-07-02 10:35>
+#+description:
+#+filetags: healing learning teaching trust self empower being
+
+   Listen: I am here because I experience impostor syndrome.
+   I know that because
+   * I have struggled with ::
+   * I am working on ::
+   * As a result ::
+     * Proactively reframe myself at forks in the road
+
+
+* Only you can
+
+** Know
+*** Who you are
+**** Who you thrive amongst
+*** What you are capable of
+**** What others should expect of you
+
+*** When you are ready to take an action
+**** When your work is done
+*** Where you are at your best
+**** Where you are at your best
+*** Why you are where you are
+**** Why you want to be where you are
+* Your trustworthiness
+
+* Memories :noexport:
+
+  and i lost it again
+
+  #+begin_src elisp :tangle yes
+    [    [   [  [ [.] ]  ]   ]    ]
+  #+end_src

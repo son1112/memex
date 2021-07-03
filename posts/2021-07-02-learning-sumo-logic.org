@@ -1,0 +1,9 @@
+#+title: Learning Sumo Logic
+#+date: <2021-07-02 11:13>
+#+description:
+#+filetags: sumologic logs streams dev tools services health system debug
+
+[[google:learn-you-sumo-logic]]
+https://www.sumologic.com/learn/training/
+
+[[~/ANDERSON/img/undefined - Imgur.png]]

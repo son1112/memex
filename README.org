@@ -1,0 +1,23 @@
+* nb :noexport:
+** Blogging with org-static-blog + Gitlab Pages + Continuous Integration
+
+ This repository demonstrates how to automate blogging with [[https://github.com/bastibe/org-static-blog][org-static-blog]].
+
+ Output of this repository:
+ ~TBD~
+
+
+ To start blogging with org-static-blog + Gitlab Pages + Continuous Integration:
+
+ 1. Fork this repository
+ 2. Adjust =org-static-blog-publish-url= in [[./publish.el][publish.el]]= to your domain.
+ 3. Create a new blog entry (=.org= file, stored in =./posts/= or =./drafts/=) with =#+TITLE:= and =#+Date:=
+ 4. Push your blog entry
+ 5. Now Gitlabs CI will build your html files and publish them.
+   - Download [[https://hub.docker.com/r/zngguvnf/emacs/][docker-emacs]]
+   - call =org-static-blog-publish=
+   - publish files
+
+ optional:
+ Add a css File (uncomment line in [[./.gitlab-ci.yml][.gitlab-ci.yml]]) and adjust =org-static-blog-page-header=, =org-static-blog-page-preamble=,
+ =org-static-blog-page-postamble=.

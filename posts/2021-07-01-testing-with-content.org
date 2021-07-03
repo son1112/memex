@@ -1,0 +1,12 @@
+#+title: Testing with content
+#+date: <2021-07-01 01:12>
+#+description:
+#+filetags: test foo bar blog
+
+* This is a test
+
+** of org-static-blog
+
+   - [X] create
+   - [X] publish
+   - [ ] host

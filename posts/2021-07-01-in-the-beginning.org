@@ -1,0 +1,56 @@
+#+title: In the beginning...
+#+date: <2021-07-01 09:40>
+#+description:
+#+filetags: start now express being do it just do it
+
+* ...of the morning
+
+  Thu Jul  1 09:41:14 CDT 2021
+
+  I sit in a [[google:fuse coworking][Fuse coworking]] space today.
+  This is the first ~actual~ post for this blog.
+  I don't know if you can tell, but I am trying to reign in my mind
+  that goes a little silly when given a free open space to write.
+  I need to make clear statements,
+  put them together
+  in a way that brings value to you, dear reader.
+
+  Let's start by declaring the intent and purpose of these weblogs.
+  I think I'll actually start be reclaiming the word ~weblog~.
+  "Blog" is overused to the cliche graveyard by now.
+  Is it really that much easier to say anyway? Or do
+  you just sound like someone who discovered the internet
+  for the first time ever?
+
+  Okay, I'm being rude now.
+  Let's get to the point.
+  What is the point?
+  Let's find out.
+
+** Why am I here?
+
+   First of all, let me step back from my previous statement about the purpose
+   here. I am here, typing these words, PRIMARILY for myself. I need to find new
+   or reconnect with old ways of getting thoughts, ideas and feelings outside
+   of my head.
+
+   Secondarily, I write them for you to read.
+
+   What kinds of topics might we cover in my rambling?
+
+*** Practical
+
+*** Technical
+
+*** Emotional
+
+*** Political
+
+*** TODO Gitting things done
+
+**** TODO Add to templating styles, etc
+**** TODO Decide on hosting
+
+***** github.io
+
+***** other
